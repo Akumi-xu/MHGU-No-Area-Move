@@ -1,6 +1,7 @@
 # 无边缘传送
 
-- [无边缘传送.zip](02_build/%E6%88%90%E5%93%81MOD/%E6%97%A0%E8%BE%B9%E7%BC%98%E4%BC%A0%E9%80%81/%E6%97%A0%E8%BE%B9%E7%BC%98%E4%BC%A0%E9%80%81.zip)
+[无边缘传送](https://github.com/Akumi-xu/MHGU-No-Area-Move/releases/download/archive-2026-11-14/MHGU-No-Area-Move.zip) · [发布说明](https://github.com/Akumi-xu/MHGU-No-Area-Move/releases/tag/archive-2026-11-14)
+
 
 [完整源码与功能说明](01_plugins/no_area_move/)。包内提供安装说明；安装包按原样保存。
 
@@ -12,3 +13,5 @@ python .\06_tools\patches\pack_no_area_move.py
 ```
 
 2026-11-14 上传已有安装包与当前源码快照；ZIP 完整性及包内 NRO 重定位检查通过，本次未重新编译或进行游戏测试。Eden / Switch 需要另装兼容的 Forge 前置；源码快照不保证与历史二进制逐字节复现。
+
+仓库保存展开的源码与构建材料；安装包统一从 Release 下载。历史版本及标签保持原样。
